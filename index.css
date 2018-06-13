@@ -1,8 +1,11 @@
-.box-with-shadow {
-    max-width: 650px;
+.container {
+    max-width: 950px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 50px;
+}
+
+.box-with-shadow {
+        margin-bottom: 50px;
 
     border: 1px solid lightgray;
     padding: 40px;
